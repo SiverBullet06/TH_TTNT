@@ -1,0 +1,9 @@
+"""Bai 6"""
+a = int ( input ("Nhap gia tri a:"))
+b = int (input ( "Nhap gia tri b:"))
+if (a==b):
+  print ("1")
+elif ( a>b):
+  print ("2")
+else:
+  print ("3")
