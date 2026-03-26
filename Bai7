@@ -1,0 +1,8 @@
+"""Bai 7"""
+a = int ( input ("Nhap gia tri a:"))
+b = int (input ( "Nhap gia tri b:"))
+d= int (input ( "Nhap gia tri d:"))
+if (a==b and b ==d):
+  print ("HELLO WORLD")
+else:
+  print (" ")
