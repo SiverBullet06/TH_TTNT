@@ -1,0 +1,4 @@
+"""Bai 2"""
+s = "Hello World"
+a = s[2:5]
+print ( a)
