@@ -1,0 +1,11 @@
+"""Bai 1"""
+a = int (input ( " Nhap gia tr thu 1:"))
+b = int(input  ( "Nhap gia tri thu 2:") )
+tong = a+b
+hieu = a- b
+tich = a*b
+thuong = a/b
+print (hieu)
+print(tong)
+print ( thuong)
+print (thuong)
