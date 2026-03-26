@@ -1,0 +1,7 @@
+"""Bai 4"""
+a = int ( input ("Nhap gia tri a:"))
+b = int (input ( "Nhap gia tri b:"))
+if (a>b):
+  print ("HELLO WORLD")
+else:
+  print (" ")
