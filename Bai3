@@ -1,0 +1,15 @@
+"""Bai 3 """
+original_string = "   Hello World  "
+print(f"Chuỗi gốc: '{original_string}'")
+
+stripped_string = original_string.strip()
+print(f"Chuỗi sau khi xóa khoảng trắng: '{stripped_string}'")
+
+uppercase_string = stripped_string.upper()
+print(f"Chuỗi dạng hoa: '{uppercase_string}'")
+
+lowercase_string = stripped_string.lower()
+print(f"Chuỗi dạng thường: '{lowercase_string}'")
+
+replaced_string = stripped_string.replace('H', 'J')
+print(f"Chuỗi sau khi thay 'H' bằng 'J': '{replaced_string}'")
